@@ -1,0 +1,15 @@
+{
+    "name": "sfm/offer1",
+    "autoload": {
+        "psr-4": {
+            "Sfm\\Offer1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adrian Bancu",
+            "email": "bancu28@gmail.com"
+        }
+    ],
+    "require": {}
+}
