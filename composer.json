@@ -1,5 +1,6 @@
 {
     "name": "sfm/offer1",
+    "version": "master",
     "autoload": {
         "psr-4": {
             "Sfm\\Offer1\\": "src/"
